@@ -1,0 +1,9 @@
+1. Install python-dotenv
+Anda perlu menginstall library python-dotenv untuk memuat variabel dari file .env:
+
+bash
+Copy
+Edit
+pip install python-dotenv
+2. Buat file .env
+Buat file .env di direktori yang sama dengan file Python Anda dan masukkan data Anda ke dalamnya
